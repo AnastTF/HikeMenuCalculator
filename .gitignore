@@ -1,0 +1,42 @@
+# Папки сборки
+build*/
+*-build*/
+Debug/
+Release/
+
+# Файлы Qt Creator
+*.user
+*.user.*
+*.stash
+*.cbp
+
+# Временные файлы
+*.o
+*.so
+*.a
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+
+# LaTeX временные файлы
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+
+# Сгенерированные PDF (если не хотите хранить)
+*.pdf
+
+# Qt Creator
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+
+# VS Code
+.vscode/
+.idea/
+
+# Скомпилированные файлы
+*.exe
+*.app
