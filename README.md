@@ -39,10 +39,6 @@ make
 - Нажмите "Рассчитать"
 - Сохраните результат в PDF или DOC
 
-## Скриншоты
-
-![Главное окно](screenshots/main_window.png)
-
 ## Контакты
 
 Email: tavaeva_a_f@bk.ru
